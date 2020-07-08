@@ -1,2 +1,7 @@
 hello world
+<<<<<<< HEAD
+my name is Cathy and I am from China
+
+=======
 my name is gritty and I am from Philly
+>>>>>>> upstream/master
